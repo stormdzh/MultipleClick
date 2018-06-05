@@ -4,8 +4,8 @@
 功能还需要完善，后续再慢慢加上。。。。
 
 效果展示：
-![原始图](https://github.com/stormdzh/MultipleClick/tree/master/pre/原始.png)
-![三角形](https://github.com/stormdzh/MultipleClick/tree/master/pre/三角形.png)
-![扇形内部](https://github.com/stormdzh/MultipleClick/tree/master/pre/扇形内部.png)
-![椭圆内部](https://github.com/stormdzh/MultipleClick/tree/master/pre/椭圆内部.png)
-![圆内](https://github.com/stormdzh/MultipleClick/tree/master/pre/圆内.png)
+![原始图](https://github.com/stormdzh/MultipleClick/blob/master/pre/%E5%8E%9F%E5%A7%8B.png)
+![三角形](https://github.com/stormdzh/MultipleClick/blob/master/pre/%E4%B8%89%E8%A7%92%E5%BD%A2.png)
+![扇形内部](https://github.com/stormdzh/MultipleClick/blob/master/pre/%E6%89%87%E5%BD%A2%E5%86%85%E9%83%A8.png)
+![椭圆内部](https://github.com/stormdzh/MultipleClick/blob/master/pre/%E6%A4%AD%E5%9C%86%E5%86%85%E9%83%A8.png)
+![圆内](https://github.com/stormdzh/MultipleClick/blob/master/pre/%E5%9C%86%E5%86%85.png)
